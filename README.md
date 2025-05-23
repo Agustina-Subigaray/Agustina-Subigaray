@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Agustina Subigaray
 
-🎓 Abogada con fuerte interés en la tecnología, el análisis de datos y la ciberseguridad.  
+🎓 Abogada con fuerte interés en la tecnología. 
 💼 En proceso de reconversión profesional hacia el **Data Analytics** y el **Desarrollo de Software**.  
 📊 Experiencia en herramientas como SQL, Power BI, Python y Excel.  
 📚 Actualmente cursando la carrera de Data Analytics y una diplomatura en Desarrollo de Software.  
